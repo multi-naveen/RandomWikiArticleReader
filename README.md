@@ -21,3 +21,5 @@ As mentioned before, do something about the possibility of unicode appearing in 
 Make the program pause once the user has selected an article to read, and allow him or her to continue browsing different article titles once finished reading.
 
 Allow the user to simply press ENTER to be asked about a new article.
+
+project idea from : http://www.reddit.com/r/beginnerprojects/comments/1jg2ru/project_random_wikipedia_article/
